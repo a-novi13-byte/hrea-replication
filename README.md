@@ -177,8 +177,8 @@ MIT License. See LICENSE file.
 ## Contact
 
 Alexei (Frank) Hoffman  
-Georgetown University  
-[email]
+Georgetown University, Walsh School of Foregin Service  
+fdh14(at)georgetown(dot)edu
 
 ---
 
