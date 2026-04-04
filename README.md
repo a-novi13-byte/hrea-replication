@@ -4,7 +4,7 @@
 
 **Title:** Reproducibility and Geographic Transfer of Satellite-Based Electrification Predictions: Testing High-Resolution Electricity Access Models Across Africa and Asia
 
-**Author:** Alexei (Frank) Hoffman, Georgetown University
+**Author:** Alexei Hoffman, Georgetown University
 
 **Conference:** MeasureDev 2026, World Bank
 
@@ -176,7 +176,7 @@ MIT License. See LICENSE file.
 
 ## Contact
 
-Alexei (Frank) Hoffman  
+Alexei Hoffman  
 Georgetown University, Walsh School of Foregin Service  
 fdh14(at)georgetown(dot)edu
 
